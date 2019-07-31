@@ -1,0 +1,740 @@
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Citrus,2018-02-01 00:00:00,MNW18021,M,269,Kings Bay,Crystal River,Natural: Other
+Levy,2018-02-01 00:00:00,MNW18026,M,202,Black Point Swamp,Cedar Key,Natural: Cold Stress
+Broward,2018-02-01 00:00:00,MSE18024,U,275,Port Everglades,Ft. Lauderdale,Human Related: Watercraft Collision
+Brevard,2018-02-02 00:00:00,MEC18013,F,280,Indian River,Port St. John,Human Related: Other
+Brevard,2018-02-02 00:00:00,MEC18014,M,209,Eau Gallie River,Melbourne,Natural: Cold Stress
+Miami-Dade,2018-02-02 00:00:00,MSE18025,F,286,Miami River,Miami,Undetermined: Other
+Broward,2018-02-02 00:00:00,MSE18026,M,310,South Fork New River,Ft. Lauderdale,Undetermined: Other
+Miami-Dade,2018-02-02 00:00:00,MSE18028,M,198,Miami River,Miami,Undetermined: Other
+Brevard,2018-02-03 00:00:00,MEC18015,F,178,Indian River,Cocoa,Natural: Cold Stress
+Volusia,2018-02-04 00:00:00,MNE18013,F,165,Halifax River,Port Orange,Verified: Not Recovered
+Hillsborough,2018-02-05 00:00:00,MNW18022,F,345,Old Tampa Bay,Tampa,Undetermined: Too Decomposed
+Pasco,2018-02-05 00:00:00,MNW18023,M,189,Gulf of Mexico,New Port Richey,Natural: Cold Stress
+Broward,2018-02-05 00:00:00,MSE18029,F,255,Atlantic Ocean,Ft. Lauderdale,Undetermined: Too Decomposed
+Martin,2018-02-05 00:00:00,MSE18030,M,287,Peck Lake,Port Salerno,Natural: Cold Stress
+Monroe,2018-02-05 00:00:00,MSW18032,M,263,Buttonwood Canal,Flamingo,Natural: Cold Stress
+Glades,2018-02-05 00:00:00,MSW18033,F,278,Caloosahatchee River,Moore Haven,Undetermined: Too Decomposed
+Brevard,2018-02-06 00:00:00,MEC18016,F,176,Indian River,Titusville,Natural: Cold Stress
+Escambia,2018-02-06 00:00:00,MNW18024,M,256,Big Lagoon,Pensacola Beach,Natural: Cold Stress
+Broward,2018-02-06 00:00:00,MSE18031,M,310,Port Everglades,Ft. Lauderdale,Human Related: Watercraft Collision
+Miami-Dade,2018-02-06 00:00:00,MSE18032,F,195,Biscayne Bay,North Miami,Natural: Other
+Charlotte,2018-02-06 00:00:00,MSW18035,M,217,Peace River,Punta Gorda,Natural: Other
+Brevard,2018-02-07 00:00:00,MEC18017,M,272,Banana River,Merritt Island,Undetermined: Too Decomposed
+Brevard,2018-02-07 00:00:00,MEC18018,U,250,Banana River,Cape Canaveral,Verified: Not Recovered
+Pinellas,2018-02-07 00:00:00,MNW18025,M,215,Tampa Bay,St. Petersburg,Undetermined: Too Decomposed
+Citrus,2018-02-08 00:00:00,MNW18027,M,266,Halls River,Homosassa,Human Related: Watercraft Collision
+Miami-Dade,2018-02-08 00:00:00,MSE18033,M,263,Palmer Lake,Miami,Undetermined: Too Decomposed
+Lee,2018-02-08 00:00:00,MSW18036,M,195,Matlacha Pass,Cape Coral,Natural: Cold Stress
+Okaloosa,2018-02-09 00:00:00,MNW18028,M,296,Ft. Walton Beach,Santa Rosa Sound,Natural: Cold Stress
+Monroe,2018-02-09 00:00:00,MSW18037,U,215,Roberts River,Flamingo,Verified: Not Recovered
+Brevard,2018-02-10 00:00:00,MEC18019,F,205,Indian River,Cocoa,Undetermined: Too Decomposed
+Putnam,2018-02-10 00:00:00,MNE18014,F,255,St. Johns River,Palatka,Natural: Cold Stress
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Citrus,2018-02-10 00:00:00,SWFTm1809b,F,275,Kings Bay,Crystal River,Human Related: Watercraft Collision
+Brevard,2018-02-11 00:00:00,MEC18020,F,231,Banana River,Cocoa Beach,Human Related: Other
+Hillsborough,2018-02-11 00:00:00,MNW18029,F,116,Hillsborough Bay,Tampa,Perinatal (<= 150 cm)
+Charlotte,2018-02-11 00:00:00,MSW18038,F,267,Charlotte Harbor,Punta Gorda,Natural: Other
+Duval,2018-02-12 00:00:00,MNE18015,M,231,Sawpit Creek,Jacksonville,Natural: Other
+Duval,2018-02-12 00:00:00,MNE18016,F,247,St. Johns River,Jacksonville,Natural: Cold Stress
+Franklin,2018-02-14 00:00:00,MNW18030,M,215,Carrabelle River,Carrabelle,Natural: Cold Stress
+Hillsborough,2018-02-15 00:00:00,MNW18031,F,249,Tampa Bay,Ruskin,Human Related: Watercraft Collision
+Brevard,2018-02-16 00:00:00,MEC18021,M,200,Indian River,Melbourne Beach,Undetermined: Too Decomposed
+Hillsborough,2018-02-16 00:00:00,MNW18032,M,110,Little Manatee River,Ruskin,Perinatal (<= 150 cm)
+Lee,2018-02-17 00:00:00,MSW18039,F,235,Boca Grande Bayou,Boca Grande,Natural: Other
+Lee,2018-02-17 00:00:00,MSW18040,F,163,Matlacha Pass,Cape Coral,Undetermined: Too Decomposed
+Pinellas,2018-02-18 00:00:00,MNW18033,M,292,Tampa Bay,St. Petersburg,Human Related: Watercraft Collision
+Miami-Dade,2018-02-18 00:00:00,MSE18034,F,265,Little River,Miami,Human Related: Watercraft Collision
+Sarasota,2018-02-18 00:00:00,MSW18041,F,239,Myakka River,North Port,Natural: Other
+Lee,2018-02-18 00:00:00,MSW18042,F,279,Boca Grande Bayou,Boca Grande,Natural: Other
+Bay,2018-02-19 00:00:00,MNW18034,M,293,East Bay,Panama City,Natural: Cold Stress
+Monroe,2018-02-19 00:00:00,MSE18035,F,289,Cotton Key Basin,Islamorada,Undetermined: Too Decomposed
+Lee,2018-02-19 00:00:00,MSW18043,F,267,Pine Island Sound,Captiva,Natural: Other
+Gulf,2018-02-22 00:00:00,MNW18035,F,267,St. Joe Bay,Port St. Joe,Verified: Not Recovered
+Pinellas,2018-02-24 00:00:00,MNW18036,M,146,McPherson Bayou,St. Pete Beach,Perinatal (<= 150 cm)
+Lee,2018-02-24 00:00:00,MSW18044,M,221,Pine Island Sound,Captiva,Natural: Other
+Indian River,2018-02-25 00:00:00,MEC18022,F,287,Indian River,Vero Beach,Human Related: Watercraft Collision
+Palm Beach,2018-02-26 00:00:00,MSE18036,M,312,Lake Worth Lagoon,Lantana,Human Related: Watercraft Collision
+Lee,2018-02-26 00:00:00,MSW18045,M,237,Caloosahatchee River,Ft. Myers,Natural: Other
+Lee,2018-02-26 00:00:00,MSW18046,M,193,Pejuan Cove,Cayo Costa,Natural: Other
+Lee,2018-02-27 00:00:00,MSW18047,F,225,Boca Grande Bayou,Boca Grande,Undetermined: Too Decomposed
+Manatee,2018-02-28 00:00:00,MNW18037,F,142,Anna Maria Sound,Bradenton,Perinatal (<= 150 cm)
+Volusia,2018-03-01 00:00:00,MNE18017,F,170,Halifax River,Daytona Beach,Undetermined: Too Decomposed
+Monroe,2018-03-01 00:00:00,MSE18037,M,279,Buttonwood Sound,Key Largo,Undetermined: Other
+Lee,2018-03-02 00:00:00,MSW18048,F,268,Dinken Bayou,Sanibel,Undetermined: Too Decomposed
+Sarasota,2018-03-02 00:00:00,MSW18049,U,200,Myakka River,North Port,Verified: Not Recovered
+Charlotte,2018-03-02 00:00:00,SWFTm1815b,F,303,Charlotte Harbor,Punta Gorda,Human Related: Watercraft Collision
+Brevard,2018-03-03 00:00:00,MEC18023,F,267,Grand Canal,Satellite beach,Natural: Other
+Hillsborough,2018-03-03 00:00:00,MNW18038,M,332,Old Tampa Bay,Tampa,Undetermined: Too Decomposed
+Lee,2018-03-03 00:00:00,MSW18050,F,326,Caloosahatchee River,Alva,Undetermined: Too Decomposed
+Lee,2018-03-04 00:00:00,MSW18051,M,285,Henley Canal,Saint James City,Natural: Other
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Charlotte,2018-03-04 00:00:00,MSW18052,F,225,Gasparilla Sound,Placida,Natural: Other
+Monroe,2018-03-05 00:00:00,MSE18038,F,230,Florida Bay,Tavernier,Verified: Not Recovered
+Collier,2018-03-05 00:00:00,MSTm1805,F,284,Faka Union Canal,Port of the Islands,Natural: Cold Stress
+Sarasota,2018-03-05 00:00:00,MSW18053,M,250,Blackburn Bay,Nokomis,Natural: Other
+Manatee,2018-03-06 00:00:00,MNW18039,M,203,Palma Sola Bay,Bradenton,Natural: Other
+Charlotte,2018-03-06 00:00:00,MSW18054,F,226,Bull Bay,Placida,Natural: Other
+Lee,2018-03-06 00:00:00,MSW18055,F,236,Pine Island Sound,Saint James City,Undetermined: Too Decomposed
+Lee,2018-03-06 00:00:00,MSW18056,U,,Charlotte Harbor,Bokeelia,Undetermined: Too Decomposed
+Citrus,2018-03-08 00:00:00,SWFTm1753b,F,200,Kings Bay,Crystal River,Undetermined: Other
+Indian River,2018-03-09 00:00:00,MEC18024,F,268,Indian River,Sebastian,Human Related: Other
+Pinellas,2018-03-09 00:00:00,MNW18040,F,104,Old Tampa Bay,St. Petersburg,Perinatal (<= 150 cm)
+Palm Beach,2018-03-09 00:00:00,MSE18039,F,142,Intracoastal Waterway,Highland Beach,Perinatal (<= 150 cm)
+Brevard,2018-03-10 00:00:00,MEC18025,M,160,Indian River,Cocoa,Natural: Cold Stress
+Brevard,2018-03-10 00:00:00,MEC18026,M,165,Banana River,Satellite Beach,Natural: Cold Stress
+Brevard,2018-03-10 00:00:00,MEC18027,F,286,Turkey Creek,Palm Bay,Human Related: Watercraft Collision
+Martin,2018-03-11 00:00:00,MSTm1806,F,218,St. Lucie Canal,Indiantown,Human Related: Watercraft Collision
+Lee,2018-03-11 00:00:00,MSW18057,M,173,Imperial River,Bonita Springs,Natural: Other
+Collier,2018-03-11 00:00:00,MSW18058,U,200,Gullivan Bay,Naples,Verified: Not Recovered
+Brevard,2018-03-12 00:00:00,MEC18028,M,159,Indian River,Titusville,Undetermined: Too Decomposed
+Brevard,2018-03-12 00:00:00,MEC18029,M,260,Grand Canal,Satellite Beach,Human Related: Watercraft Collision
+Pasco,2018-03-12 00:00:00,MNW18041,F,175,Gulf of Mexico,Hudson,Natural: Cold Stress
+Lee,2018-03-13 00:00:00,MSW18059,M,245,San Carlos Bay,Sanibel,Natural: Other
+Lee,2018-03-13 00:00:00,MSW18060,M,236,Pine Island Sound,Sanibel,Natural: Other
+Volusia,2018-03-14 00:00:00,MNE18018,M,247,St. Johns River,Astor,Human Related: Watercraft Collision
+Miami-Dade,2018-03-14 00:00:00,MSE18040,F,261,Biscayne Bay,Miami,Undetermined: Other
+Brevard,2018-03-15 00:00:00,MEC18030,F,361,Indian River,Merritt Island,Undetermined: Other
+Brevard,2018-03-15 00:00:00,MEC18031,F,176,Grand Canal,Satellite Beach,Natural: Cold Stress
+Lee,2018-03-15 00:00:00,MSW18061,M,217,Pine Island Sound,Captiva,Natural: Other
+Brevard,2018-03-16 00:00:00,MEC18032,M,213,Indian River,Titusville,Undetermined: Other
+Lee,2018-03-16 00:00:00,SWFTm1748b,M,255,Estero Bay,Ft. Myers,Human Related: Watercraft Collision
+Volusia,2018-03-17 00:00:00,MEC18033,F,266,St. Johns River,Orange City,Undetermined: Too Decomposed
+Putnam,2018-03-17 00:00:00,MNE18019,M,88,Welaka Spring,Satsuma,Perinatal (<= 150 cm)
+Manatee,2018-03-17 00:00:00,MNW18042,F,168,Palma Sola Bay,Bradenton,Natural: Cold Stress
+Brevard,2018-03-18 00:00:00,MEC18034,M,247,Indian River,Titusville,Undetermined: Other
+St. Johns,2018-03-18 00:00:00,SWFTm1818b,M,151,Matanzas River,St. Augustine,Natural: Cold Stress
+Brevard,2018-03-19 00:00:00,MEC18035,F,207,Sebastian River,Micco,Natural: Cold Stress
+Indian River,2018-03-19 00:00:00,MEC18036,U,260,Indian River,Vero Beach,Undetermined: Too Decomposed
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+St. Lucie,2018-03-19 00:00:00,MSE18041,M,213,Ft. Pierce Inlet,Ft. Pierce,Natural: Other
+Collier,2018-03-19 00:00:00,MSW18062,F,160,Faka Union Canal,Port of the Islands,Natural: Cold Stress
+Collier,2018-03-19 00:00:00,MSW18063,F,112,Sanctuary Sound,Marco Island,Perinatal (<= 150 cm)
+Lee,2018-03-19 00:00:00,MSW18064,M,204,Matanzas Pass,Ft. Myers Beach,Natural: Other
+Lee,2018-03-19 00:00:00,MSW18065,M,158,Glover Bight,Cape Coral,Natural: Other
+Brevard,2018-03-20 00:00:00,MEC18037,F,302,Eau Gallie River,Melbourne,Natural: Other
+Indian River,2018-03-20 00:00:00,MEC18038,M,267,Sebastian River,Sebastian,Natural: Other
+Collier,2018-03-20 00:00:00,MSW18066,F,198,Faka Union Canal,Port of the Islands,Natural: Other
+Brevard,2018-03-21 00:00:00,MEC18039,F,115,Turkey Creek,Palm Bay,Perinatal (<= 150 cm)
+Citrus,2018-03-22 00:00:00,MNW18043,M,95,Kings Bay,Crystal River,Perinatal (<= 150 cm)
+Pasco,2018-03-24 00:00:00,MNW18044,M,322,Anclote Anchorage,Holiday,Undetermined: Other
+Martin,2018-03-25 00:00:00,MSE18042,M,302,Peck Lake,Hobe Sound,Natural: Other
+Broward,2018-03-26 00:00:00,MSE18043,M,330,South Fork New River,Ft. Lauderdale,Undetermined: Too Decomposed
+Lee,2018-03-26 00:00:00,MSW18067,M,296,Roosevelt Channel,Captiva,Natural: Other
+Lee,2018-03-26 00:00:00,MSW18068,M,284,Iona Cove,Ft. Myers,Natural: Other
+Sarasota,2018-03-26 00:00:00,MSW18069,U,70,Salt Creek,North Port,Verified: Not Recovered
+Brevard,2018-03-27 00:00:00,MEC18040,F,250,Grand Canal,Satellite Beach,Undetermined: Too Decomposed
+St. Johns,2018-03-28 00:00:00,MNE18020,M,215,Sam Pablo River,Ponte Vedra Beach,Natural: Cold Stress
+Brevard,2018-03-29 00:00:00,MEC18041,M,280,Indian River,Titusville,Undetermined: Other
+Brevard,2018-03-29 00:00:00,MEC18043,F,178,Grand Canal,Satellite Beach,Natural: Cold Stress
+Lee,2018-03-29 00:00:00,MSW18070,F,237,Gulf of Mexico,North Captiva Island,Natural: Other
+Brevard,2018-03-30 00:00:00,MEC18042,M,130,Turkey Creek,Palm Bay,Perinatal (<= 150 cm)
+Brevard,2018-03-30 00:00:00,MEC18044,F,197,Crane Creek,Melbourne,Natural: Cold Stress
+Brevard,2018-03-30 00:00:00,MEC18045,M,313,Crane Creek,Melbourne,Human Related: Watercraft Collision
+Hillsborough,2018-03-30 00:00:00,MNW18045,M,298,Hillsborough Bay,Apollo Beach,Human Related: Watercraft Collision
+Monroe,2018-03-30 00:00:00,MSE18044,F,140,Lake Surprise,Key Largo,Perinatal (<= 150 cm)
+Martin,2018-03-30 00:00:00,MSTm1808,M,153,Willoughby Creek,Stuart,Natural: Cold Stress
+Lee,2018-03-30 00:00:00,MSW18071,M,246,Back Bay,Bokeelia,Natural: Other
+Citrus,2018-03-31 00:00:00,MNW18046,F,123,Crystal River,Crystal River,Perinatal (<= 150 cm)
+St. Lucie,2018-03-31 00:00:00,MSE18045,M,315,Fish House Cove,Ft. Pierce,Undetermined: Too Decomposed
+Lee,2018-03-31 00:00:00,MSW18072,U,245,Caloosahatchee River,Ft. Myers,Verified: Not Recovered
+Wakulla,2018-04-01 00:00:00,MNW18047,F,271,St. Marks River,St. Marks,Undetermined: Other
+Brevard,2018-04-02 00:00:00,MEC18046,M,80,Banana River,Merritt Island,Perinatal (<= 150 cm)
+St. Johns,2018-04-02 00:00:00,MNE18021,F,265,Tolomato River,Ponte Vedra Beach,Natural: Other
+Hillsborough,2018-04-02 00:00:00,MNW18048,U,150,Tampa Bay,Tampa,Verified: Not Recovered
+Lee,2018-04-02 00:00:00,MSW18073,F,271,Roosevelt Channel,Captiva,Natural: Other
+Duval,2018-04-04 00:00:00,MNE18022,F,147,St. Johns River,Jacksonville,Perinatal (<= 150 cm)
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Monroe,2018-04-04 00:00:00,MSE18046,M,192,Florida Bay,Marathon,Undetermined: Too Decomposed
+Lee,2018-04-04 00:00:00,MSW18074,F,292,Roosevelt Channel,Captiva,Natural: Other
+Lee,2018-04-04 00:00:00,MSW18075,F,260,Pine Island Sound,Sanibel,Verified: Not Recovered
+Lee,2018-04-04 00:00:00,MSW18076,F,277,Hurricane Bay,Ft. Myers Beach,Human Related: Watercraft Collision
+Charlotte,2018-04-04 00:00:00,MSW18077,M,233,Gasparilla Sound,Placida,Undetermined: Too Decomposed
+Lee,2018-04-04 00:00:00,MSW18078,M,312,Pine Island Sound,St. James City,Natural: Other
+Indian River,2018-04-05 00:00:00,MEC18047,M,281,Indian River,Sebastian,Human Related: Watercraft Collision
+Lee,2018-04-05 00:00:00,MSW18079,M,302,Charlotte Harbor,Boca Grande,Natural: Other
+Lee,2018-04-06 00:00:00,MSW18080,M,254,Gasparilla Sound,Boca Grande,Natural: Other
+Lee,2018-04-06 00:00:00,MSW18081,M,331,Roosevelt Channel,Captiva,Natural: Other
+Lee,2018-04-06 00:00:00,MSW18082,F,266,Roosevelt Channel,Captiva,Natural: Other
+Brevard,2018-04-07 00:00:00,MEC18048,M,205,Banana River,Cocoa Beach,Undetermined: Too Decomposed
+Miami-Dade,2018-04-07 00:00:00,MSE18047,F,330,Biscayne Bay,North Bay Village,Human Related: Watercraft Collision
+Lee,2018-04-07 00:00:00,MSW18083,F,264,Roosevelt Channel,Captiva,Natural: Other
+Lee,2018-04-08 00:00:00,MSW18084,F,350,Caloosahatchee River,Ft. Myers,Natural: Other
+Collier,2018-04-09 00:00:00,MSW18085,M,185,Tarpon Bay,Naples,Verified: Not Recovered
+Lee,2018-04-09 00:00:00,MSW18086,M,266,Charlotte Harbor,Bokeelia,Natural: Other
+Charlotte,2018-04-10 00:00:00,SWFTm1826b,M,205,Charlotte Harbor,Punta Gorda,Natural: Other
+Lee,2018-04-10 00:00:00,SWFTm1827b,M,221,Blind Pass,Captiva,Natural: Other
+Brevard,2018-04-11 00:00:00,MEC18049,M,101,Turkey Creek,Palm Bay,Perinatal (<= 150 cm)
+Lee,2018-04-11 00:00:00,MSW18087,M,307,Charlotte Harbor,Boca Grande,Natural: Other
+Collier,2018-04-11 00:00:00,MSW18088,M,245,Gulf of Mexico,Cape Romano,Verified: Not Recovered
+Lee,2018-04-11 00:00:00,MSW18092,F,245,Boca Grande Bayou,Boca Grande,Natural: Other
+Hillsborough,2018-04-13 00:00:00,MNW18049,M,241,Old Tampa Bay,Tampa,Human Related: Watercraft Collision
+Lee,2018-04-13 00:00:00,MSW18089,M,277,Redfish Pass,North Captiva Island,Undetermined: Too Decomposed
+Lee,2018-04-13 00:00:00,MSW18090,M,260,Kesson Bayou,Sanibel,Natural: Other
+Lee,2018-04-13 00:00:00,MSW18091,M,215,Pine Island Sound,St. James City,Verified: Not Recovered
+Lee,2018-04-14 00:00:00,MSW18093,M,239,Pine Island Sound,Captiva,Natural: Other
+Lee,2018-04-14 00:00:00,SWFTm1829b,F,290,Caloosahatchee River,North Ft. Myers,Human Related: Watercraft Collision
+Lee,2018-04-15 00:00:00,MSW18094,F,245,Pine Island Sound,Captiva,Verified: Not Recovered
+Lee,2018-04-16 00:00:00,MSW18095,F,221,Pine Island Sound,Captiva,Natural: Other
+Palm Beach,2018-04-17 00:00:00,MSE18048,F,273,Earman River,North Palm Beach,Natural: Cold Stress
+Collier,2018-04-17 00:00:00,MSW18096,U,280,Gulf of Mexico,Marco Island,Verified: Not Recovered
+Lee,2018-04-17 00:00:00,MSW18097,F,230,Pine Island Sound,Captiva,Verified: Not Recovered
+Collier,2018-04-17 00:00:00,MSW18098,U,250,Caxambas Pass,Marco Island,Verified: Not Recovered
+Collier,2018-04-17 00:00:00,MSW18100,F,315,Faka Union Canal,Port of the Islands,Natural: Other
+Pinellas,2018-04-18 00:00:00,MNW18050,M,123,Allens Creek,Clearwater,Perinatal (<= 150 cm)
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Monroe,2018-04-18 00:00:00,MSE18049,F,304,Tarpon Basin,Key Largo,Undetermined: Too Decomposed
+Lee,2018-04-18 00:00:00,MSW18099,M,265,Pine Island Sound,St. James City,Natural: Other
+Brevard,2018-04-19 00:00:00,MEC18050,M,275,Indian River,Palm Bay,Verified: Not Recovered
+Brevard,2018-04-19 00:00:00,MEC18051,F,274,Indian River,Indialantic,Natural: Cold Stress
+Collier,2018-04-19 00:00:00,MSW18101,F,240,Gullivan Bay,Cape Romano,Natural: Other
+Lee,2018-04-19 00:00:00,MSW18102,U,245,Punta Rassa Cove,Ft. Myers,Verified: Not Recovered
+Brevard,2018-04-20 00:00:00,MEC18052,F,233,Indian River Lagoon,Titusville,Undetermined: Other
+Pinellas,2018-04-20 00:00:00,MNW18051,M,244,Tampa Bay,Clearwater,Human Related: Watercraft Collision
+Lee,2018-04-20 00:00:00,MSW18103,U,260,Roosevelt Channel,Captiva,Verified: Not Recovered
+Volusia,2018-04-21 00:00:00,MEC18053,M,223,Indian River North,Edgewater,Undetermined: Too Decomposed
+Lee,2018-04-21 00:00:00,MSW18104,U,290,Pine Island Sound,Upper Captiva,Verified: Not Recovered
+Lee,2018-04-21 00:00:00,MSW18105,F,255,Clam Bayou,Sanibel,Natural: Other
+Manatee,2018-04-21 00:00:00,SWFTm1831b,M,292,Manatee River,Palmetto,Human Related: Watercraft Collision
+Hillsborough,2018-04-22 00:00:00,MNW18052,F,104,Hillsborough Bay,Tampa,Perinatal (<= 150 cm)
+Lee,2018-04-23 00:00:00,MSW18106,M,335,Kesson Bayou,Sanibel,Natural: Other
+Lee,2018-04-23 00:00:00,MSW18107,M,331,Dinken Bayou,Sanibel,Natural: Other
+Lee,2018-04-24 00:00:00,MSW18108,F,220,Big Carlos Pass,Ft. Myers Beach,Natural: Other
+Brevard,2018-04-25 00:00:00,MEC18055,M,240,Banana River,Merritt Island,Human Related: Watercraft Collision
+Hillsborough,2018-04-25 00:00:00,MNW18053,M,130,Woods Creek,Tampa,Perinatal (<= 150 cm)
+Collier,2018-04-25 00:00:00,MSW18109,M,295,Rookery Bay,Naples,Natural: Other
+Collier,2018-04-26 00:00:00,MSW18110,F,347,Gulf of Mexico,Naples,Natural: Other
+Brevard,2018-04-27 00:00:00,MEC18054,F,135,Turkey Creek,Palm Bay,Perinatal (<= 150 cm)
+St. Johns,2018-04-27 00:00:00,MNE18023,M,237,San Pablo River,Ponte Vedra Beach,Human Related: Watercraft Collision
+Lee,2018-04-27 00:00:00,MSW18111,F,256,Matlacha Pass,Cape Coral,Human Related: Watercraft Collision
+Lee,2018-04-28 00:00:00,MSW18112,M,272,San Carlos Bay,Saint James City,Natural: Other
+Lee,2018-04-28 00:00:00,MSW18113,F,152,San Carlos Bay,Ft. Myers,Natural: Other
+Lee,2018-04-29 00:00:00,MSW18115,F,263,Imperial River,Bonita Springs,Natural: Other
+Lee,2018-04-30 00:00:00,MSW18114,F,189,Imperial River,Estero,Undetermined: Too Decomposed
+Broward,2018-05-01 00:00:00,MSE18050,F,275,Himmershee Canal,Ft. Lauderdale,Natural: Other
+Collier,2018-05-01 00:00:00,MSW18116,M,285,Gulf of Mexico,Marco Island,Natural: Other
+Collier,2018-05-01 00:00:00,MSW18117,F,275,Little Hickory Bay,Bonita Springs,Verified: Not Recovered
+Collier,2018-05-02 00:00:00,MSW18118,M,270,Caxambas Bay,Marco Island,Natural: Other
+Lee,2018-05-02 00:00:00,MSW18119,F,283,Buccaneer Bay,Ft. Myers Beach,Natural: Other
+Collier,2018-05-03 00:00:00,MSW18120,U,300,Fakahatchee Bay,Naples,Verified: Not Recovered
+Duval,2018-05-04 00:00:00,MNE18024,F,262,St. Johns River,Jacksonville,Undetermined: Too Decomposed
+Brevard,2018-05-05 00:00:00,MEC18056,F,152,Indian River,Titusville,Natural: Cold Stress
+Monroe,2018-05-05 00:00:00,MSE18051,U,240,Tavernier Creek,Tavernier,Verified: Not Recovered
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Miami-Dade,2018-05-06 00:00:00,MSE18052,M,311,Deering Channel,Miami,Undetermined: Other
+Lee,2018-05-06 00:00:00,MSW18121,M,283,Caloosahatchee River,Ft. Myers,Human Related: Watercraft Collision
+Lee,2018-05-06 00:00:00,MSW18122,U,290,Estero Bay,Ft. Myers Beach,Verified: Not Recovered
+Manatee,2018-05-07 00:00:00,MNW18054,M,131,Manatee River,Bradenton,Perinatal (<= 150 cm)
+Pinellas,2018-05-07 00:00:00,MNW18055,M,202,Old Tampa Bay,St. Petersburg,Natural: Other
+Charlotte,2018-05-07 00:00:00,MSW18123,M,251,Charlotte Harbor,Boca Grande,Natural: Other
+Lee,2018-05-07 00:00:00,MSW18124,M,98,Hurricane Bay,Ft. Myers Beach,Perinatal (<= 150 cm)
+Lee,2018-05-07 00:00:00,MSW18127,U,245,Pine Island Sound,Captiva,Verified: Not Recovered
+Lee,2018-05-08 00:00:00,MSW18125,F,184,San Carlos Bay,St. James City,Natural: Other
+Volusia,2018-05-09 00:00:00,MEC18057,F,264,Mosquito Lagoon,Merritt Island,Human Related: Watercraft Collision
+Collier,2018-05-09 00:00:00,MSW18126,M,160,Cocohatchee River,Naples,Undetermined: Too Decomposed
+Lee,2018-05-09 00:00:00,MSW18128,F,246,Boca Grande Bayou,Boca Grande,Natural: Other
+Lee,2018-05-09 00:00:00,MSW18129,F,138,Caloosahatchee River,Cape Coral,Perinatal (<= 150 cm)
+Hillsborough,2018-05-10 00:00:00,MNW18056,F,110,Hillsborough River,Tampa,Perinatal (<= 150 cm)
+Wakulla,2018-05-10 00:00:00,MNW18057,M,263,St. Marks River,St. Marks,Human Related: Watercraft Collision
+Collier,2018-05-10 00:00:00,MSW18130,F,273,Faka Union Canal,Port of the Islands,Undetermined: Too Decomposed
+Brevard,2018-05-11 00:00:00,MEC18058,M,104,Turkey Creek,Palm Bay,Perinatal (<= 150 cm)
+Martin,2018-05-11 00:00:00,MSTm1809,M,93,Great Pocket,Stuart,Perinatal (<= 150 cm)
+Collier,2018-05-11 00:00:00,MSW18131,F,263,Gullivan Bay,Cape Romano,Natural: Other
+Lee,2018-05-11 00:00:00,MSW18132,U,110,Back Bay,Bokeelia,Verified: Not Recovered
+Lee,2018-05-11 00:00:00,MSW18133,F,303,Ten Mile Canal,Ft. Myers,Natural: Other
+Brevard,2018-05-12 00:00:00,MEC18059,F,121,Banana River,Cocoa Beach,Perinatal (<= 150 cm)
+Indian River,2018-05-13 00:00:00,MEC18060,M,280,Indian River,Vero Beach,Human Related: Watercraft Collision
+Pinellas,2018-05-13 00:00:00,MNW18058,M,106,Clearwater Harbor (ICW),Indian Rocks Beach,Perinatal (<= 150 cm)
+Pasco,2018-05-14 00:00:00,MNW18059,M,324,Gulf of Mexico,Hudson,Human Related: Watercraft Collision
+Lee,2018-05-14 00:00:00,MSW18134,U,110,Caloosahatchee River,Ft. Myers,Verified: Not Recovered
+Collier,2018-05-15 00:00:00,MSW18135,M,157,Faka Union Canal,Port of the Islands,Natural: Other
+Sarasota,2018-05-15 00:00:00,MSW18136,F,137,Fox Creek,Nokomis,Perinatal (<= 150 cm)
+Collier,2018-05-16 00:00:00,MSW18137,F,302,Venetian Bay,Naples,Natural: Other
+Pinellas,2018-05-18 00:00:00,MNW18060,F,315,Long Bayou,Seminole,Undetermined: Too Decomposed
+Glades,2018-05-18 00:00:00,MSW18138,F,245,Lake Okeechobee,Moore Haven,Verified: Not Recovered
+Lee,2018-05-18 00:00:00,MSW18139,M,132,Imperial River,Bonita Springs,Perinatal (<= 150 cm)
+Brevard,2018-05-19 00:00:00,MEC18061,F,310,Indian River,Titusville,Undetermined: Too Decomposed
+Brevard,2018-05-22 00:00:00,MEC18062,M,245,Banana River,Merritt Island,Undetermined: Other
+Lee,2018-05-22 00:00:00,MSW18140,U,260,Pine Island Sound,Captiva,Verified: Not Recovered
+Manatee,2018-05-23 00:00:00,MNW18061,F,274,Braden River,Bradenton,Human Related: Watercraft Collision
+Lee,2018-05-23 00:00:00,MSW18144,M,285,Thunderbird Lake,Cape Coral,Verified: Not Recovered
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Collier,2018-05-23 00:00:00,SWFTm1836b,F,326,Gordon Pass,Naples,Natural: Other
+Lee,2018-05-24 00:00:00,MSW18141,F,248,San Carlos Pass,St. James City,Natural: Other
+Collier,2018-05-24 00:00:00,MSW18142,F,188,Tarpon Bay,Marco Island,Natural: Other
+Hendry,2018-05-24 00:00:00,MSW18143,F,302,Lake Okeechobee,Clewiston,Human Related: Watercraft Collision
+Pinellas,2018-05-25 00:00:00,MNW18062,F,241,Old Tampa Bay,Clearwater,Natural: Other
+Pinellas,2018-05-26 00:00:00,MNW18063,M,105,Boca Ciega Bay,St. Petersburg,Verified: Not Recovered
+Charlotte,2018-05-26 00:00:00,MSW18145,M,243,Placida Harbor,Placida,Human Related: Watercraft Collision
+Collier,2018-05-26 00:00:00,MSW18146,M,125,Goodland Bay,Marco Island,Perinatal (<= 150 cm)
+Brevard,2018-05-26 00:00:00,SWFTm1837b,F,295,Sykes Creek,Merritt Island,Undetermined: Other
+Brevard,2018-05-28 00:00:00,MEC18063,M,122,Sykes Creek,Merritt Island,Perinatal (<= 150 cm)
+Brevard,2018-05-28 00:00:00,MEC18064,M,116,Turkey Creek,Palm Bay,Perinatal (<= 150 cm)
+Brevard,2018-05-31 00:00:00,MEC18065,M,104,Grand Canal,Satellite Beach,Perinatal (<= 150 cm)
+Hillsborough,2018-05-31 00:00:00,MNW18064,F,327,Hillsborough Bay,Tampa,Human Related: Watercraft Collision
+Broward,2018-05-31 00:00:00,MSE18053,F,330,Hillsboro Inlet (ICW),Pompano,Human Related: Other
+Lee,2018-05-31 00:00:00,MSW18147,U,185,Tarpon Bay,Sanibel,Verified: Not Recovered
+Lee,2018-05-31 00:00:00,MSW18148,M,143,Caloosahatchee River,Cape Coral,Perinatal (<= 150 cm)
+Volusia,2018-06-02 00:00:00,MEC18066,M,265,Mosquito Lagoon,New Smyrna Beach,Undetermined: Too Decomposed
+Volusia,2018-06-02 00:00:00,MEC18067,M,290,Mosquito Lagoon,New Smyrna Beach,Undetermined: Too Decomposed
+Pinellas,2018-06-02 00:00:00,MNW18065,F,113,Mullet Key Bayou,St. Petersburg,Perinatal (<= 150 cm)
+Lee,2018-06-02 00:00:00,MSW18149,F,344,Foster Bay,North Captiva Island,Natural: Other
+Lee,2018-06-02 00:00:00,MSW18150,U,245,Iona Cove,Ft. Myers,Verified: Not Recovered
+Charlotte,2018-06-02 00:00:00,MSW18151,M,207,Gasparilla Sound,Placida,Undetermined: Too Decomposed
+Hillsborough,2018-06-04 00:00:00,MNW18066,M,310,Little Manatee River,Ruskin,Human Related: Watercraft Collision
+Seminole,2018-06-05 00:00:00,SWFTm1825b,M,239,Lake Monroe,Sanford,Undetermined: Other
+Brevard,2018-06-07 00:00:00,MEC18068,F,269,Indian River,Malabar,Undetermined: Other
+Volusia,2018-06-07 00:00:00,MEC18069,M,305,Mosquito Lagoon,Allenhurst,Human Related: Watercraft Collision
+Citrus,2018-06-07 00:00:00,MNW18067,F,305,Chassahaowitzka River,Homosassa,Human Related: Watercraft Collision
+Charlotte,2018-06-08 00:00:00,MSW18152,F,295,Peace River,Port Charlotte,Undetermined: Too Decomposed
+Hendry,2018-06-08 00:00:00,MSW18153,M,317,Caloosahatchee River,Labelle,Human Related: Other
+Manatee,2018-06-09 00:00:00,MNW18068,M,112,Manatee River,Bradenton,Perinatal (<= 150 cm)
+Pinellas,2018-06-09 00:00:00,MNW18069,M,307,Clearwater Harbor,Clearwater,Human Related: Watercraft Collision
+Pinellas,2018-06-10 00:00:00,MNW18070,M,269,Mullet Key Bayou,Tierra Verde,Human Related: Watercraft Collision
+St. Lucie,2018-06-10 00:00:00,MSE18054,M,258,Indian River,Ft. Pierce,Human Related: Watercraft Collision
+Charlotte,2018-06-10 00:00:00,MSW18154,F,354,Charlotte Harbor,Placida,Human Related: Watercraft Collision
+Hillsborough,2018-06-11 00:00:00,MNW18071,F,320,Tampa Bay,Apollo Beach,Human Related: Watercraft Collision
+Pinellas,2018-06-11 00:00:00,MNW18072,M,205,77th Avenue Canal,St. Petersburg,Human Related: Other
+Collier,2018-06-11 00:00:00,MSW18155,M,318,Little Hickory Bay,Bonita Springs,Human Related: Watercraft Collision
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Lee,2018-06-11 00:00:00,MSW18156,M,228,Jug Creek,Bokeelia,Undetermined: Too Decomposed
+Lee,2018-06-12 00:00:00,MSW18157,M,204,Boca Grande Bayou,Boca Grande,Natural: Other
+Lee,2018-06-13 00:00:00,MSW18158,M,255,Caloosahatchee River,Cape Coral,Human Related: Flood Gate/Canal Lock
+Citrus,2018-06-14 00:00:00,MNW18073,F,259,Kings Bay,Crystal River,Natural: Other
+Palm Beach,2018-06-14 00:00:00,MSE18055,F,223,Lake Worth Lagoon,North Palm Beach,Natural: Other
+Volusia,2018-06-16 00:00:00,MEC18070,M,145,Mosquito Lagoon,Edgewater,Perinatal (<= 150 cm)
+Lee,2018-06-16 00:00:00,MSW18159,M,242,Pine Island Sound,Bokeelia,Natural: Other
+Dixie,2018-06-18 00:00:00,MNW18074,F,280,Suwannee Sound,Suwannee,Verified: Not Recovered
+Manatee,2018-06-18 00:00:00,MNW18075,U,150,Manatee River,Palmetto,Verified: Not Recovered
+Lee,2018-06-19 00:00:00,MSW18160,F,290,Pine Island Sound,St. James City,Natural: Other
+Charlotte,2018-06-19 00:00:00,MSW18161,M,310,Gulf of Mexico,Little Gasparilla Island,Undetermined: Too Decomposed
+Brevard,2018-06-20 00:00:00,MEC18071,U,295,Indian River,Merritt Island,Undetermined: Too Decomposed
+Brevard,2018-06-21 00:00:00,MEC18072,M,136,Banana River,Cocoa Beach,Perinatal (<= 150 cm)
+Brevard,2018-06-21 00:00:00,MEC18073,M,124,Banana River,Merritt Island,Perinatal (<= 150 cm)
+Brevard,2018-06-21 00:00:00,MEC18074,M,115,Sykes Creek,Merritt Island,Perinatal (<= 150 cm)
+Levy,2018-06-21 00:00:00,MNW18076,M,323,Suwannee Sound,Cedar Key,Human Related: Watercraft Collision
+Pinellas,2018-06-21 00:00:00,MNW18077,M,309,Old Tampa Bay,Safety Harbor,Undetermined: Too Decomposed
+Brevard,2018-06-22 00:00:00,MEC18075,F,294,Mullett Creek,Melbourne Beach,Undetermined: Other
+Volusia,2018-06-22 00:00:00,MEC18076,M,306,Mosquito Lagoon,New Smyrna Beach,Undetermined: Too Decomposed
+Collier,2018-06-22 00:00:00,MSW18162,F,339,Dollar Bay,Naples,Natural: Other
+Hendry,2018-06-22 00:00:00,MSW18163,U,220,Lake Okeechobee Rim Canal,Clewiston,Verified: Not Recovered
+Sarasota,2018-06-22 00:00:00,MSW18164,F,271,Alligator Creek,Venice,Human Related: Watercraft Collision
+Hillsborough,2018-06-23 00:00:00,MNW18078,F,310,Channel A,Tampa,Undetermined: Too Decomposed
+Monroe,2018-06-23 00:00:00,MSE18056,M,249,Cotton Key Basin,Tavernier,Undetermined: Too Decomposed
+Martin,2018-06-24 00:00:00,MSE18057,F,269,St. Lucie River,Stuart,Undetermined: Other
+Lee,2018-06-24 00:00:00,MSW18165,F,416,Boca Grande Pass,Boca Grande,Undetermined: Too Decomposed
+Brevard,2018-06-25 00:00:00,MEC18077,M,121,Banana River,Cocoa Beach,Perinatal (<= 150 cm)
+Brevard,2018-06-25 00:00:00,MEC18078,F,141,Banana River,Cocoa Beach,Perinatal (<= 150 cm)
+Wakulla,2018-06-25 00:00:00,MNW18079,M,136,St. Marks River,Crawfordville,Perinatal (<= 150 cm)
+Monroe,2018-06-25 00:00:00,MSE18058,M,333,Straits of Florida,Largo,Human Related: Watercraft Collision
+Monroe,2018-06-25 00:00:00,MSE18059,M,260,Cotton Key Basin,Tavernier,Undetermined: Too Decomposed
+Brevard,2018-06-26 00:00:00,MEC18079,F,316,Indian River,Melbourne Beach,Undetermined: Other
+Citrus,2018-06-26 00:00:00,MNW18080,M,220,Homosassa River,Homosassa,Undetermined: Too Decomposed
+Lee,2018-06-26 00:00:00,MSW18166,F,318,Pine Island Sound,Cayo Costa,Natural: Other
+Lee,2018-06-26 00:00:00,MSW18167,M,254,Pine Island Sound,Cayo Costa,Natural: Other
+Collier,2018-06-26 00:00:00,MSW18168,U,292,Rock Creek,Naples,Verified: Not Recovered
+Citrus,2018-06-27 00:00:00,MNW18081,F,358,Homosassa River,Homosassa,Human Related: Watercraft Collision
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Monroe,2018-06-27 00:00:00,MSE18060,F,292,Tavernier Creek,Tavernier,Undetermined: Other
+Lee,2018-06-28 00:00:00,MSW18169,M,338,Caloosahatchee River,North Ft. Myers,Undetermined: Too Decomposed
+Collier,2018-06-28 00:00:00,MSW18170,M,332,Sanctuary Sound,Marco Island,Undetermined: Too Decomposed
+Lee,2018-06-28 00:00:00,MSW18171,M,200,Pine Island Sound,Sanibel,Undetermined: Too Decomposed
+Citrus,2018-06-28 00:00:00,SWFTm1840b,F,274,Halls River,Homosassa,Human Related: Watercraft Collision
+St. Johns,2018-06-30 00:00:00,MNE18025,F,112,Hickory Slough,St. Johns,Perinatal (<= 150 cm)
+Martin,2018-06-30 00:00:00,MSE18061,M,170,St. Lucie River,Stuart,Undetermined: Too Decomposed
+Charlotte,2018-06-30 00:00:00,MSW18172,M,302,Gasparilla Sound,Boca Grande,Natural: Other
+Charlotte,2018-06-30 00:00:00,MSW18173,M,295,Peace River,Punta Gorda,Human Related: Watercraft Collision
+Hillsborough,2018-07-02 00:00:00,MNW18082,M,137,Hillsborough River,Tampa,Perinatal (<= 150 cm)
+Citrus,2018-07-03 00:00:00,MNW18083,F,267,Chassahowitzka River,Homosassa,Human Related: Watercraft Collision
+Sarasota,2018-07-04 00:00:00,MSW18174,M,303,South Creek,Osprey,Undetermined: Too Decomposed
+Collier,2018-07-04 00:00:00,MSW18175,M,190,Lake Placid,Everglades City,Verified: Not Recovered
+Miami-Dade,2018-07-06 00:00:00,MSE18062,F,183,Little Arch Creek,North Miami,Undetermined: Too Decomposed
+Charlotte,2018-07-06 00:00:00,MSW18176,F,187,Lemon Bay,Englewood,Natural: Other
+Brevard,2018-07-07 00:00:00,MEC18080,F,122,Indian River,Merritt Island,Perinatal (<= 150 cm)
+Hillsborough,2018-07-07 00:00:00,MNW18084,F,226,Little Manatee River,Ruskin,Human Related: Watercraft Collision
+Collier,2018-07-07 00:00:00,MSW18177,M,298,Sanctuary Sound,Marco Island,Undetermined: Too Decomposed
+Brevard,2018-07-08 00:00:00,MEC18081,F,229,Indian River,Grant-Valkaria,Human Related: Watercraft Collision
+Volusia,2018-07-08 00:00:00,MNE18026,M,142,Strickland Creek,Ormond Beach,Perinatal (<= 150 cm)
+Brevard,2018-07-09 00:00:00,MEC18082,M,123,Indian River,Titusville,Perinatal (<= 150 cm)
+Brevard,2018-07-09 00:00:00,MEC18083,M,104,Indian River,Titusville,Perinatal (<= 150 cm)
+Hillsborough,2018-07-09 00:00:00,MNW18085,M,266,Old Tampa Bay,Tampa,Undetermined: Too Decomposed
+Volusia,2018-07-10 00:00:00,MEC18084,F,317,Indian River North,Edgewater,Human Related: Watercraft Collision
+Putnam,2018-07-10 00:00:00,MNE18027,M,118,St. Johns River,East Palatka,Perinatal (<= 150 cm)
+Charlotte,2018-07-10 00:00:00,MSW18178,M,332,Peace River,Port Charlotte,Natural: Other
+Charlotte,2018-07-10 00:00:00,MSW18179,F,323,Charlotte Harbor,Cape Haze,Natural: Other
+Lee,2018-07-10 00:00:00,MSW18180,F,235,Jug Creek,Bokeelia,Human Related: Watercraft Collision
+Indian River,2018-07-11 00:00:00,MEC18085,F,112,Indian River,Sebastian,Perinatal (<= 150 cm)
+Brevard,2018-07-11 00:00:00,MEC18086,M,126,Sykes Creek,Merritt Island,Perinatal (<= 150 cm)
+Wakulla,2018-07-11 00:00:00,MNW18086,M,215,Wakulla River,St. Marks,Human Related: Watercraft Collision
+Citrus,2018-07-11 00:00:00,MNW18087,M,139,Homosassa River,Homosassa,Perinatal (<= 150 cm)
+Monroe,2018-07-11 00:00:00,MSE18063,M,322,Key Vaca Cut,Marathon,Human Related: Watercraft Collision
+Monroe,2018-07-11 00:00:00,MSE18064,M,132,Cotton Key Basin,Tavernier,Perinatal (<= 150 cm)
+Collier,2018-07-11 00:00:00,MSW18181,F,354,Halderman Creek,Naples,Natural: Other
+Brevard,2018-07-12 00:00:00,MEC18087,F,144,Sykes Creek,Merritt Island,Perinatal (<= 150 cm)
+Brevard,2018-07-13 00:00:00,MEC18088,F,135,Sykes Creek,Merritt Island,Perinatal (<= 150 cm)
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Pinellas,2018-07-13 00:00:00,MNW18088,F,302,McKay Creek,Largo,Undetermined: Too Decomposed
+Pinellas,2018-07-13 00:00:00,MNW18089,M,272,Boca Ciega Bay,Redington Beach,Human Related: Watercraft Collision
+Charlotte,2018-07-13 00:00:00,MSW18182,F,298,Lemon Bay,Englewood,Natural: Other
+Collier,2018-07-13 00:00:00,MSW18183,F,235,Gullivan Bay,Marco Island,Natural: Other
+Brevard,2018-07-14 00:00:00,MEC18089,F,115,Banana River,Cocoa Beach,Perinatal (<= 150 cm)
+Brevard,2018-07-14 00:00:00,MEC18090,F,92,Banana River,Merritt Island,Perinatal (<= 150 cm)
+Sarasota,2018-07-14 00:00:00,MSW18184,F,223,Forked Creek,Englewood,Natural: Other
+Volusia,2018-07-16 00:00:00,MNE18028,M,134,Strickland Creek,Ormond Beach,Perinatal (<= 150 cm)
+Indian River,2018-07-17 00:00:00,MEC18091,M,122,Indian River,Vero Beach,Perinatal (<= 150 cm)
+Brevard,2018-07-17 00:00:00,MEC18092,M,148,Banana River,Satellite Beach,Perinatal (<= 150 cm)
+St. Lucie,2018-07-17 00:00:00,MSE18065,M,275,Indian River,Ft. Pierce,Human Related: Watercraft Collision
+Collier,2018-07-18 00:00:00,MSW18185,M,246,Gulf of Mexico,Keewaydin Island,Undetermined: Too Decomposed
+Brevard,2018-07-19 00:00:00,MEC18093,M,132,Banana River,Cocoa Beach,Perinatal (<= 150 cm)
+Collier,2018-07-19 00:00:00,MSW18186,M,186,Rookery Bay,Naples,Natural: Other
+Charlotte,2018-07-19 00:00:00,MSW18187,F,296,Peace River,Port Charlotte,Human Related: Other
+Brevard,2018-07-20 00:00:00,MEC18094,M,135,Banana River,Merritt Island,Perinatal (<= 150 cm)
+Citrus,2018-07-21 00:00:00,MNW18090,F,152,Dixie Bay,Crystal River,Undetermined: Too Decomposed
+Brevard,2018-07-23 00:00:00,MEC18095,F,130,Indian River,Rockledge,Perinatal (<= 150 cm)
+Charlotte,2018-07-25 00:00:00,MSW18188,F,200,Alligator Creek,Punta Corda,Human Related: Watercraft Collision
+Brevard,2018-07-26 00:00:00,MEC18096,M,120,Sykes Creek,Merritt Island,Perinatal (<= 150 cm)
+Brevard,2018-07-26 00:00:00,MEC18097,F,110,Banana River,Cocoa Beach,Perinatal (<= 150 cm)
+Palm Beach,2018-07-27 00:00:00,MSE18066,M,147,Lake Okeechobee,Pahokee,Perinatal (<= 150 cm)
+Brevard,2018-07-28 00:00:00,MEC18098,M,150,Indian River,Merritt Island,Perinatal (<= 150 cm)
+Pinellas,2018-07-28 00:00:00,MNW18091,F,273,Old Tampa Bay,St. Petersburg,Natural: Other
+Martin,2018-07-28 00:00:00,MSE18067,M,345,St. Lucie River,Stuart,Human Related: Flood Gate/Canal Lock
+Martin,2018-07-29 00:00:00,MSE18068,F,332,St. Lucie River,Stuart,Human Related: Flood Gate/Canal Lock
+Lee,2018-07-29 00:00:00,MSW18189,M,192,Caloosahatchee River,Cape Coral,Natural: Other
+Indian River,2018-07-30 00:00:00,MEC18099,M,210,Indian River,Vero Beach,Human Related: Other
+Brevard,2018-07-30 00:00:00,MEC18100,M,116,Sykes Creek,Merritt Island,Perinatal (<= 150 cm)
+Sarasota,2018-07-30 00:00:00,MSW18190,F,313,Lemon Bay,Englewood,Natural: Other
+Brevard,2018-07-31 00:00:00,MEC18101,F,135,Eau Gallie River,Melbourne,Perinatal (<= 150 cm)
+Brevard,2018-07-31 00:00:00,MEC18102,U,300,Indian River,Titusville,Verified: Not Recovered
+Lee,2018-07-31 00:00:00,MSW18191,F,355,Caloosahatchee River,Cape Coral,Human Related: Watercraft Collision
+Sarasota,2018-07-31 00:00:00,MSW18192,F,290,Lemon Bay,Englewood,Natural: Other
+Volusia,2018-08-01 00:00:00,MNE18029,M,119,Halifax River,Daytona Beach,Perinatal (<= 150 cm)
+Charlotte,2018-08-01 00:00:00,SWFTm1844b,M,279,Lemon Bay,Englewood,Natural: Other
+Brevard,2018-08-02 00:00:00,MEC18103,M,133,Banana River,Cocoa Beach,Perinatal (<= 150 cm)
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Charlotte,2018-08-02 00:00:00,MSW18193,U,245,Gasparilla Sound,Placida,Verified: Not Recovered
+Lee,2018-08-02 00:00:00,MSW18194,M,217,Fish Trap Bay,Bonita Springs,Natural: Other
+Sarasota,2018-08-02 00:00:00,MSW18195,M,292,Lemon Bay (ICW),Venice,Human Related: Watercraft Collision
+Brevard,2018-08-03 00:00:00,MEC18104,F,130,Grand Canal,Satellite Beach,Perinatal (<= 150 cm)
+Brevard,2018-08-03 00:00:00,MEC18105,F,135,Banana River,Merritt Island,Perinatal (<= 150 cm)
+Manatee,2018-08-03 00:00:00,MNW18092,F,316,Custer Bayou,Terra Ceia,Human Related: Watercraft Collision
+Wakulla,2018-08-03 00:00:00,MNW18093,F,355,East River,Crawfordville,Undetermined: Too Decomposed
+Charlotte,2018-08-03 00:00:00,MSW18196,M,225,Alligator Creek,Punta Gorda,Human Related: Watercraft Collision
+Lee,2018-08-03 00:00:00,MSW18197,F,232,Pine Island Sound,Upper Captiva,Undetermined: Too Decomposed
+Sarasota,2018-08-03 00:00:00,MSW18198,F,290,Little Sarasota Bay,Sarasota,Natural: Other
+Lee,2018-08-03 00:00:00,MSW18199,F,250,Matlacha Pass,Pine Island,Verified: Not Recovered
+Brevard,2018-08-04 00:00:00,MEC18106,F,123,Indian River,Titusville,Perinatal (<= 150 cm)
+Monroe,2018-08-04 00:00:00,MSE18069,F,183,Florida Bay,Key Largo,Human Related: Watercraft Collision
+Charlotte,2018-08-04 00:00:00,MSW18200,M,268,Gasparilla Sound,Placida,Undetermined: Too Decomposed
+Sarasota,2018-08-04 00:00:00,MSW18201,M,296,Lemon Bay,Englewood,Natural: Other
+Lee,2018-08-04 00:00:00,MSW18202,F,208,Pine Island Sound,Saint James City,Human Related: Watercraft Collision
+Sarasota,2018-08-04 00:00:00,MSW18203,M,214,Dona Bay,Venice,Natural: Other
+Manatee,2018-08-05 00:00:00,MNW18094,F,312,Braden River,Bradenton,Human Related: Watercraft Collision
+Sarasota,2018-08-05 00:00:00,MSW18204,U,245,Gulf of Mexico,Sarasota,Verified: Not Recovered
+Sarasota,2018-08-05 00:00:00,MSW18205,M,260,Little Sarasota Bay,Sarasota,Undetermined: Too Decomposed
+Charlotte,2018-08-05 00:00:00,MSW18206,M,215,Placida Harbor,Placida,Natural: Other
+Lee,2018-08-06 00:00:00,MSW18207,F,285,Matlacha Pass,Bokeelia,Natural: Other
+Lee,2018-08-06 00:00:00,MSW18212,U,300,Foster Bay,North Captiva Island,Verified: Not Recovered
+Sarasota,2018-08-07 00:00:00,MSW18208,M,315,Lemon Bay (ICW),Sarasota,Natural: Other
+Sarasota,2018-08-07 00:00:00,MSW18209,M,239,Shakett Creek,Nokomis,Natural: Other
+Brevard,2018-08-08 00:00:00,MEC18107,M,135,Sykes Creek,Merritt Island,Perinatal (<= 150 cm)
+Charlotte,2018-08-08 00:00:00,MSW18210,F,330,Charlotte Harbor,Port Charlotte,Undetermined: Too Decomposed
+Collier,2018-08-08 00:00:00,MSW18211,F,197,Johnson Bay,Naples,Natural: Other
+Lee,2018-08-08 00:00:00,MSW18213,U,300,Roosevelt Channel,Captiva,Verified: Not Recovered
+Collier,2018-08-08 00:00:00,MSW18214,U,275,Johnson Bay,Naples,Verified: Not Recovered
+Manatee,2018-08-09 00:00:00,MNW18095,F,317,Manatee River,Parrish,Undetermined: Too Decomposed
+Lake,2018-08-10 00:00:00,MEC18108,F,280,St. Johns River,Astor,Undetermined: Too Decomposed
+Volusia,2018-08-11 00:00:00,MNE18030,M,322,Indian River North,New Smyrna Beach,Human Related: Watercraft Collision
+Brevard,2018-08-12 00:00:00,MEC18109,F,133,Turkey Creek,Palm Bay,Perinatal (<= 150 cm)
+Lee,2018-08-12 00:00:00,MSW18215,M,320,Gasparilla Sound,Boca Grande,Verified: Not Recovered
+Lee,2018-08-13 00:00:00,MSW18216,M,131,San Carlos Bay,Saint James City,Perinatal (<= 150 cm)
+Charlotte,2018-08-13 00:00:00,MSW18217,F,139,Ainger Creek,Englewood,Perinatal (<= 150 cm)
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Sarasota,2018-08-13 00:00:00,MSW18218,M,327,Blackburn Bay,Nokomis,Natural: Other
+Hillsborough,2018-08-14 00:00:00,MNW18096,M,330,Hillsborough Bay,Tampa,Human Related: Watercraft Collision
+Lee,2018-08-14 00:00:00,MSW18219,U,215,Pine Island Sound,Useppa Island,Verified: Not Recovered
+Brevard,2018-08-15 00:00:00,MEC18110,M,247,Indian River,Grant-Valkaria,Human Related: Watercraft Collision
+Pinellas,2018-08-15 00:00:00,MNW18097,M,258,77th Avenue canal,St. Petersburg,Undetermined: Too Decomposed
+Sarasota,2018-08-15 00:00:00,MSW18220,M,176,Phillippi Creek,Sarasota,Undetermined: Too Decomposed
+Manatee,2018-08-16 00:00:00,MNW18098,F,278,Terra Ceia Bay,Palmetto,Undetermined: Too Decomposed
+Sarasota,2018-08-16 00:00:00,MSW18221,M,298,Little Sarasota Bay,Osprey,Natural: Other
+Lee,2018-08-17 00:00:00,MSW18222,F,258,Pine Island Sound,Cayo Costa,Natural: Other
+Hillsborough,2018-08-18 00:00:00,MNW18099,M,105,Alafia River,Riverview,Perinatal (<= 150 cm)
+Sarasota,2018-08-18 00:00:00,MSW18223,M,280,Phillippi Creek,Sarasota,Natural: Other
+Lee,2018-08-18 00:00:00,MSW18224,F,278,San Carlos Bay,Sanibel,Natural: Other
+Lee,2018-08-18 00:00:00,MSW18225,U,275,Matlacha Pass,St. James City,Verified: Not Recovered
+Lee,2018-08-19 00:00:00,MSW18226,F,130,Caloosahatchee River,Cape Coral,Perinatal (<= 150 cm)
+Collier,2018-08-19 00:00:00,MSW18227,F,243,Tigertail Lagoon,Marco Island,Natural: Other
+Lee,2018-08-19 00:00:00,MSW18228,M,229,Caloosahatchee River,Cape Coral,Natural: Other
+Sarasota,2018-08-19 00:00:00,MSW18229,M,198,Blackburn Bay,Nokomis,Human Related: Watercraft Collision
+Brevard,2018-08-20 00:00:00,MEC18111,U,125,Sykes Creek,Merritt Island,Perinatal (<= 150 cm)
+Sarasota,2018-08-20 00:00:00,MSW18230,M,226,Shakett Creek,Nokomis,Natural: Other
+Lee,2018-08-20 00:00:00,MSW18231,F,366,San Carlos Bay,St. James City,Natural: Other
+Lee,2018-08-20 00:00:00,MSW18232,M,126,Caloosahatchee River,Cape Coral,Perinatal (<= 150 cm)
+Collier,2018-08-20 00:00:00,MSW18233,M,321,Tarpon Bay,Marco Island,Natural: Other
+Manatee,2018-08-21 00:00:00,MNW18100,U,200,Sarasota Bay,Cortez,Verified: Not Recovered
+Sarasota,2018-08-21 00:00:00,MSW18234,F,290,Little Sarasota Bay,Sarasota,Natural: Other
+Collier,2018-08-21 00:00:00,MSW18235,M,309,Smokehouse Bay,Marco Island,Natural: Other
+Collier,2018-08-21 00:00:00,MSW18236,M,306,Sanctuary Sound,Marco Island,Natural: Other
+Pinellas,2018-08-22 00:00:00,MNW18101,M,267,Mullet Key Bayou,St. Petersburg,Human Related: Watercraft Collision
+Sarasota,2018-08-22 00:00:00,MSW18237,F,286,South Creek,Osprey,Natural: Other
+Collier,2018-08-22 00:00:00,MSW18238,F,256,Sanctuary Sound,Marco Island,Natural: Other
+Sarasota,2018-08-23 00:00:00,MSW18239,F,319,Sarasota Bay,Longboat Key,Natural: Other
+Lee,2018-08-23 00:00:00,MSW18240,U,215,Pine Island Sound,Captiva,Verified: Not Recovered
+Lee,2018-08-23 00:00:00,MSW18241,U,275,Dinken Bayou,Sanibel,Verified: Not Recovered
+Lee,2018-08-24 00:00:00,MSW18242,U,180,Estero Bay,Bonita Springs,Verified: Not Recovered
+Monroe,2018-08-25 00:00:00,MSE18070,F,200,Florida Bay,Key West,Verified: Not Recovered
+Lee,2018-08-25 00:00:00,MSW18243,U,275,San Carlos Bay,Sanibel,Verified: Not Recovered
+Lee,2018-08-25 00:00:00,MSW18244,U,180,San Carlos Bay,Saint James City,Verified: Not Recovered
+Flagler,2018-08-26 00:00:00,MNE18031,F,110,Matanzas River,Palm Coast,Perinatal (<= 150 cm)
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Manatee,2018-08-26 00:00:00,MNW18102,M,325,Anna Maria Sound,Holmes Beach,Natural: Other
+Sarasota,2018-08-26 00:00:00,MSW18245,M,308,Dryman Bay,Osprey,Natural: Other
+Volusia,2018-08-27 00:00:00,MEC18112,M,121,St. Johns River,Orange City,Perinatal (<= 150 cm)
+Sarasota,2018-08-27 00:00:00,MSW18246,M,313,Dryman Bay,Osprey,Natural: Other
+Lee,2018-08-27 00:00:00,MSW18247,F,356,Pine Island Sound,Saint James City,Undetermined: Too Decomposed
+Lee,2018-08-27 00:00:00,MSW18248,M,248,Tarpon Bay,Sanibel,Natural: Other
+Brevard,2018-08-28 00:00:00,MEC18113,F,254,Banana River,Cape Canaveral,Human Related: Watercraft Collision
+Manatee,2018-08-28 00:00:00,MNW18103,M,302,Tampa Bay,Anna Maria Island,Natural: Other
+Martin,2018-08-28 00:00:00,MSE18072,F,335,St. Lucie Canal,Indiantown,Undetermined: Too Decomposed
+Sarasota,2018-08-28 00:00:00,MSW18249,M,328,Big Sarasota Pass,Sarasota,Natural: Other
+Lee,2018-08-28 00:00:00,MSW18250,F,180,San Carlos Bay,Sanibel,Verified: Not Recovered
+Lee,2018-08-28 00:00:00,MSW18251,F,308,Charlotte Harbor,Bokeelia,Natural: Other
+Sarasota,2018-08-30 00:00:00,MSW18252,M,255,Little Sarasota Bay,Sarasota,Natural: Other
+Sarasota,2018-08-30 00:00:00,MSW18253,M,308,Blackburn Bay,Osprey,Natural: Other
+Charlotte,2018-08-30 00:00:00,MSW18254,F,211,Lemon Bay,Englewood,Natural: Other
+Manatee,2018-08-31 00:00:00,MNW18104,M,274,Bowlees Creek,Bradenton,Natural: Other
+Manatee,2018-08-31 00:00:00,MNW18105,U,,Gulf of Mexico,Anna Maria Island,Verified: Not Recovered
+St. Lucie,2018-08-31 00:00:00,MSE18071,M,245,St. Lucie River,Port St. Lucie,Undetermined: Too Decomposed
+Collier,2018-08-31 00:00:00,MSW18255,F,293,Big Marco Pass,Marco Island,Verified: Not Recovered
+Lee,2018-08-31 00:00:00,MSW18256,U,215,Tarpon Bay,Sanibel,Verified: Not Recovered
+Brevard,2018-09-01 00:00:00,MEC18114,M,123,Sykes Creek,Merritt Island,Perinatal (<= 150 cm)
+Sarasota,2018-09-01 00:00:00,MSW18257,M,261,Intracoastal Waterway,Venice,Natural: Other
+Volusia,2018-09-01 00:00:00,SWFTm1850b,M,125,Tomoka River,Ormond Beach,Human Related: Watercraft Collision
+St. Johns,2018-09-02 00:00:00,MNE18032,M,310,Tolomato River,Ponte Vedra Beach,Human Related: Watercraft Collision
+Manatee,2018-09-02 00:00:00,MNW18106,F,301,Sarasota Bay,Bradenton,Natural: Other
+Sarasota,2018-09-02 00:00:00,MSW18258,M,213,Turtle Bay,Sarasota,Natural: Other
+Sarasota,2018-09-02 00:00:00,MSW18259,F,263,Roberts Bay,Venice,Natural: Other
+Sarasota,2018-09-02 00:00:00,MSW18260,F,140,Shakett Creek,Nokomis,Perinatal (<= 150 cm)
+Lee,2018-09-02 00:00:00,MSW18261,F,258,Tarpon Bay,Sanibel,Natural: Other
+Lee,2018-09-02 00:00:00,MSW18262,U,300,Pine Island Sound,Captiva,Verified: Not Recovered
+Collier,2018-09-02 00:00:00,MSW18263,M,214,Addison Bay,Marco Island,Natural: Other
+Lee,2018-09-02 00:00:00,MSW18264,M,195,San Carlos Bay,Sanibel,Human Related: Watercraft Collision
+Brevard,2018-09-04 00:00:00,MEC18115,M,300,Mosquito Lagoon,Allenhurst,Human Related: Watercraft Collision
+Lee,2018-09-04 00:00:00,MSW18265,M,172,Caloosahatchee River,North Fort Myers,Natural: Other
+Sarasota,2018-09-04 00:00:00,MSW18266,M,230,Sarasota Bay,Sarasota,Natural: Other
+Sarasota,2018-09-04 00:00:00,MSW18267,F,206,Intracoastal Waterway,Venice,Verified: Not Recovered
+Volusia,2018-09-05 00:00:00,MEC18116,M,295,Mosquito Lagoon,Allenhurst,Human Related: Watercraft Collision
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Manatee,2018-09-06 00:00:00,MNW18107,M,247,Sarasota Bay,Longboat Key,Natural: Other
+Lee,2018-09-07 00:00:00,MSW18268,F,230,Roosevelt Channel,Captiva,Verified: Not Recovered
+Volusia,2018-09-08 00:00:00,MEC18117,F,337,Mosquito Lagoon,New Smyrna Beach,Human Related: Watercraft Collision
+Pinellas,2018-09-08 00:00:00,MNW18108,M,201,Whitcomb Bayou,Tarpon Springs,Undetermined: Too Decomposed
+Manatee,2018-09-08 00:00:00,MNW18109,M,302,Sarasota Bay,Longboat Key,Natural: Other
+Lee,2018-09-08 00:00:00,MSW18269,F,320,Ostego Bay,Fort Myers Beach,Verified: Not Recovered
+Lee,2018-09-08 00:00:00,MSW18270,M,250,Pine Island Sound,Bookelia,Verified: Not Recovered
+Pinellas,2018-09-09 00:00:00,MNW18110,F,267,Allens Creek,Clearwater,Undetermined: Too Decomposed
+Manatee,2018-09-09 00:00:00,MNW18111,U,305,Palma Sola Bay,Bradenton,Verified: Not Recovered
+Lee,2018-09-09 00:00:00,MSW18271,F,285,Gulf of Mexico,Fort Myers Beach,Verified: Not Recovered
+Collier,2018-09-09 00:00:00,MSW18272,F,261,Collier Bay,Marco Island,Natural: Other
+Manatee,2018-09-10 00:00:00,MNW18112,U,305,Sarasota Bay,Longboat Key,Verified: Not Recovered
+Wakulla,2018-09-10 00:00:00,MNW18113,F,310,Wakulla River,St. Marks,Natural: Other
+Lee,2018-09-10 00:00:00,MSW18273,F,273,Roosevelt Channel,Captiva,Undetermined: Too Decomposed
+Pinellas,2018-09-11 00:00:00,MNW18114,F,309,Allen's Creek,Clearwater,Undetermined: Too Decomposed
+Manatee,2018-09-11 00:00:00,MNW18115,M,147,Terra Ceia Bay,Palmetto,Perinatal (<= 150 cm)
+Lee,2018-09-11 00:00:00,MSW18274,F,270,San Carlos Bay,Ft. Myers,Undetermined: Too Decomposed
+Pinellas,2018-09-12 00:00:00,MNW18116,F,200,77th Avenue Canal,St. Petersburg,Undetermined: Too Decomposed
+Collier,2018-09-12 00:00:00,MSW18275,F,296,Tigertail Lagoon,Marco Island,Natural: Other
+Collier,2018-09-13 00:00:00,MSW18276,U,360,Gulf of Mexico,Cape Romano,Verified: Not Recovered
+Lee,2018-09-13 00:00:00,MSW18277,U,245,Boca Grande Pass,Cayo Costa,Verified: Not Recovered
+Collier,2018-09-14 00:00:00,MSW18278,F,298,Collier Bay,Marco Island,Natural: Other
+Charlotte,2018-09-18 00:00:00,MSW18279,M,323,Gulf of Mexico,Placida,Natural: Other
+Sarasota,2018-09-18 00:00:00,MSW18280,M,335,Gulf of Mexico,Venice,Natural: Other
+Charlotte,2018-09-18 00:00:00,MSW18281,M,337,Gulf of Mexico,Englewood,Natural: Other
+Collier,2018-09-18 00:00:00,MSW18282,U,245,Factory Bay,Marco Island,Verified: Not Recovered
+Sarasota,2018-09-18 00:00:00,MSW18283,M,288,Gulf of Mexico,Englewood,Natural: Other
+Brevard,2018-09-19 00:00:00,MEC18118,M,252,Indian River,Melbourne,Human Related: Watercraft Collision
+Pinellas,2018-09-19 00:00:00,MNW18117,F,299,Clearwater Pass,Clearwater,Natural: Other
+Charlotte,2018-09-19 00:00:00,MSW18284,M,222,Lemon Bay,Englewood,Natural: Other
+Charlotte,2018-09-19 00:00:00,MSW18285,U,245,Gulf of Mexico,Palm Island,Verified: Not Recovered
+Volusia,2018-09-20 00:00:00,MNE18033,M,105,canal off Tomoka River,Ormond Beach,Perinatal (<= 150 cm)
+Collier,2018-09-20 00:00:00,MSTm1811,M,294,Factory Bay,Marco Island,Human Related: Other
+Charlotte,2018-09-20 00:00:00,MSW18286,M,260,Gulf of Mexico,Englewood,Natural: Other
+Lee,2018-09-20 00:00:00,MSW18287,U,155,Gulf of Mexico,Bonita Springs,Verified: Not Recovered
+Collier,2018-09-20 00:00:00,MSW18288,U,300,Tarpon Bay,Naples,Verified: Not Recovered
+Indian River,2018-09-22 00:00:00,MEC18119,F,124,Indian River,Vero Beach,Perinatal (<= 150 cm)
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Charlotte,2018-09-22 00:00:00,MSW18289,M,305,Lemon Bay,Englewood,Natural: Other
+Sarasota,2018-09-22 00:00:00,MSW18290,M,290,Little Sarasota Bay,Osprey,Natural: Other
+Duval,2018-09-23 00:00:00,MNE18034,M,134,San Pablo River,Jacksonville,Perinatal (<= 150 cm)
+Sarasota,2018-09-23 00:00:00,MSW18291,M,261,Sarasota Bay,Sarasota,Natural: Other
+Brevard,2018-09-24 00:00:00,MEC18120,F,125,Indian River,Titusville,Perinatal (<= 150 cm)
+Brevard,2018-09-24 00:00:00,MEC18121,M,297,Mosquito Lagoon,Merritt Island,Human Related: Watercraft Collision
+Brevard,2018-09-24 00:00:00,MEC18122,F,332,Turkey Creek,Palm Bay,Natural: Other
+Lee,2018-09-24 00:00:00,MSW18292,F,334,Matlacha Pass,Cape Coral,Human Related: Other
+Brevard,2018-09-25 00:00:00,MEC18123,M,317,Mosquito Lagoon,Allenhurst,Human Related: Watercraft Collision
+Brevard,2018-09-25 00:00:00,MEC18124,M,294,Mosquito Lagoon,Allenhurst,Undetermined: Too Decomposed
+Brevard,2018-09-25 00:00:00,MEC18125,F,327,Mosquito Lagoon,Allenhurst,Human Related: Watercraft Collision
+Lee,2018-09-25 00:00:00,MSW18293,F,305,Gulf of Mexico,Boca Grande,Verified: Not Recovered
+Lee,2018-09-25 00:00:00,MSW18294,F,281,Estero Bay,Fort Myers Beach,Natural: Other
+Lee,2018-09-25 00:00:00,MSW18295,M,185,Caloosahatchee River,Fort Myers,Verified: Not Recovered
+Lee,2018-09-25 00:00:00,MSW18296,M,295,Estero Bay,Fort Myers Beach,Natural: Other
+Lee,2018-09-25 00:00:00,MSW18297,U,150,Charlotte Harbor,Bokeelia,Verified: Not Recovered
+Duval,2018-09-26 00:00:00,MNE18035,M,316,Long Branch Creek,Jacksonville,Human Related: Other
+Lee,2018-09-26 00:00:00,MSW18298,F,218,Caloosahatchee River,Fort Myers,Natural: Other
+Lee,2018-09-26 00:00:00,MSW18299,U,230,San Carlos Bay,Sanibel,Verified: Not Recovered
+Lee,2018-09-27 00:00:00,MSW18300,M,346,Charlotte Harbor,Placida,Human Related: Watercraft Collision
+Sarasota,2018-09-27 00:00:00,MSW18301,F,260,Blackburn Bay,Osprey,Natural: Other
+Pinellas,2018-09-28 00:00:00,MNW18118,M,145,Riviera Bay,St. Petersburg,Perinatal (<= 150 cm)
+Sarasota,2018-09-28 00:00:00,MSW18302,M,280,Dryman Bay,Osprey,Verified: Not Recovered
+Pinellas,2018-09-29 00:00:00,MNW18119,F,290,Clearwater Harbor,Clearwater Beach,Natural: Other
+Sarasota,2018-09-29 00:00:00,MSW18303,M,288,Dona Bay,Nokomis,Natural: Other
+Lee,2018-09-29 00:00:00,MSW18304,M,245,Gulf of Mexico,Cayo Costa,Verified: Not Recovered
+Sarasota,2018-09-29 00:00:00,MSW18305,M,296,South Creek,Osprey,Natural: Other
+Sarasota,2018-09-29 00:00:00,MSW18306,M,304,Dona Bay,Nokomis,Natural: Other
+Pinellas,2018-10-01 00:00:00,MNW18120,F,222,Intracoastal Waterway,Redington Shores,Natural: Other
+Pinellas,2018-10-02 00:00:00,MNW18121,M,286,Boca Ciega Bay,Treasure Island,Natural: Other
+Lee,2018-10-02 00:00:00,MSW18307,M,312,San Carlos Bay,Sanibel,Natural: Other
+Lee,2018-10-02 00:00:00,MSW18308,U,180,Shell Creek,Fort Myers,Verified: Not Recovered
+Manatee,2018-10-03 00:00:00,MNW18122,M,272,Braden River,Bradenton,Human Related: Watercraft Collision
+Lee,2018-10-03 00:00:00,MSW18309,M,310,San Carlos Bay,Sanibel,Verified: Not Recovered
+Sarasota,2018-10-04 00:00:00,MSW18310,M,335,Little Sarasota Bay,Sarasota,Verified: Not Recovered
+Martin,2018-10-05 00:00:00,MSE18073,M,284,Indian River,Stuart,Natural: Other
+Sarasota,2018-10-05 00:00:00,MSW18311,F,312,Sarasota Bay,Sarasota,Natural: Other
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Brevard,2018-10-06 00:00:00,MEC18126,F,210,Crane Creek,Melbourne,Undetermined: Too Decomposed
+Brevard,2018-10-06 00:00:00,MEC18127,M,303,Indian River,Merritt Island,Human Related: Other
+Pinellas,2018-10-06 00:00:00,MNW18123,M,277,Intracoastal Waterway,Largo,Natural: Other
+Lee,2018-10-06 00:00:00,MSW18312,M,220,San Carlos Bay,St. James City,Natural: Other
+Brevard,2018-10-07 00:00:00,MEC18128,M,306,Mosquito Lagoon,Allenhurst,Undetermined: Too Decomposed
+Palm Beach,2018-10-07 00:00:00,MSE18074,F,362,Rim Canal,Lake Harbor,Human Related: Watercraft Collision
+Pinellas,2018-10-08 00:00:00,MNW18124,F,296,Old Tampa Bay,St. Petersburg,Undetermined: Too Decomposed
+Lee,2018-10-09 00:00:00,MSW18313,F,245,San Carlos Bay,St. James City,Verified: Not Recovered
+Lee,2018-10-09 00:00:00,MSW18314,M,305,Roosevelt Channel,Captiva,Verified: Not Recovered
+Brevard,2018-10-11 00:00:00,MEC18129,M,135,Eau Gallie River,Melbourne,Perinatal (<= 150 cm)
+Charlotte,2018-10-11 00:00:00,MSW18315,U,215,Gasparilla Sound,Placida,Verified: Not Recovered
+Citrus,2018-10-12 00:00:00,MNW18125,F,128,Mason Creek,Homosassa,Perinatal (<= 150 cm)
+Lee,2018-10-12 00:00:00,MSW18316,U,295,San Carlos Bay,Sanibel,Verified: Not Recovered
+Wakulla,2018-10-13 00:00:00,MNW18126,F,280,St. Marks River,St. Marks,Verified: Not Recovered
+Pinellas,2018-10-13 00:00:00,MNW18127,M,272,Boca Ciega Bay,St. Petersburg,Natural: Other
+Pinellas,2018-10-13 00:00:00,MNW18129,M,338,Soldier Hole,St. Petersburg,Undetermined: Too Decomposed
+Lee,2018-10-13 00:00:00,MSW18317,U,245,San Carlos Bay,St. James City,Verified: Not Recovered
+Pinellas,2018-10-14 00:00:00,MNW18128,F,273,McKay Creek,Largo,Natural: Other
+Pinellas,2018-10-14 00:00:00,MNW18130,F,261,Long Bayou,St. Petersburg,Natural: Other
+Miami-Dade,2018-10-14 00:00:00,MSTm1607,M,207,Coral Gables Waterway,Coral Gables,Human Related: Other
+Monroe,2018-10-17 00:00:00,MSE18075,F,329,Little Buttonwood Sound,Key Largo,Human Related: Watercraft Collision
+Pinellas,2018-10-18 00:00:00,MNW18131,M,311,Boca Ciega Bay,St. Petersburg,Natural: Other
+Pinellas,2018-10-18 00:00:00,MNW18132,M,248,Boca Ciega Bay,St. Petersburg,Natural: Other
+Pinellas,2018-10-19 00:00:00,MNW18133,M,216,Long Bayou,St. Petersburg,Natural: Other
+Duval,2018-10-20 00:00:00,MNE18036,M,288,De Blieu Creek,Jacksonville,Undetermined: Too Decomposed
+Pinellas,2018-10-20 00:00:00,MNW18134,F,277,Saint Joseph Sound,Palm Harbor,Human Related: Watercraft Collision
+Dixie,2018-10-20 00:00:00,MNW18135,F,334,Gulf of Mexico,Horseshoe Beach,Undetermined: Other
+Lee,2018-10-20 00:00:00,MSW18318,F,255,Pine Island Sound,St. James City,Natural: Other
+Martin,2018-10-24 00:00:00,MSE18076,M,252,St. Lucie River,Stuart,Human Related: Watercraft Collision
+Pinellas,2018-10-29 00:00:00,MNW18136,M,284,Boca Ciega Bay,St. Pete Beach,Natural: Other
+Hillsborough,2018-10-29 00:00:00,MNW18137,M,262,Old Tampa Bay,Tampa,Natural: Other
+Pinellas,2018-10-29 00:00:00,MNW18138,M,238,Mullet Key Bayou,St. Petersburg,Natural: Other
+Lake,2018-10-30 00:00:00,MEC18130,F,307,St. Johns River,DeBary,Human Related: Watercraft Collision
+Pinellas,2018-10-30 00:00:00,MNW18139,M,342,Boca Ciega Bay,St. Petersburg,Undetermined: Too Decomposed
+St. Lucie,2018-10-30 00:00:00,MSE18077,M,269,Indian River,Fort Pierce,Natural: Other
+Pinellas,2018-10-31 00:00:00,MNW18140,M,166,Stevenson Creek,Clearwater,Undetermined: Too Decomposed
+Indian River,2018-11-01 00:00:00,MEC18131,F,235,Indian River,Vero Beach,Natural: Other
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Pinellas,2018-11-01 00:00:00,MNW18141,M,268,Coffee Pot Bayou,St. Petersburg,Human Related: Watercraft Collision
+Brevard,2018-11-02 00:00:00,MEC18132,M,126,Indian River,Merritt Island,Perinatal (<= 150 cm)
+Brevard,2018-11-02 00:00:00,MEC18133,M,96,Desoto Canal,Indian Harbor Beach,Perinatal (<= 150 cm)
+Okeechobee,2018-11-02 00:00:00,MSE18078,F,229,Taylor Creek,Okeechobee,Human Related: Flood Gate/Canal Lock
+St. Lucie,2018-11-02 00:00:00,MSE18079,F,345,Wildcat Cove,Fort Pierce,Undetermined: Other
+Flagler,2018-11-03 00:00:00,MNE18037,F,142,Matanzas River,Flagler Beach,Human Related: Watercraft Collision
+Hillsborough,2018-11-03 00:00:00,MNW18142,M,117,Old Tampa Bay,Tampa,Perinatal (<= 150 cm)
+Manatee,2018-11-05 00:00:00,MNW18143,F,229,Palma Sola Bay,Bradenton,Natural: Other
+Manatee,2018-11-05 00:00:00,MNW18144,U,160,Manatee River,Ellenton,Verified: Not Recovered
+Pasco,2018-11-05 00:00:00,MNW18145,M,302,Gulf of Mexico,New Port Richey,Human Related: Watercraft Collision
+Monroe,2018-11-05 00:00:00,MSW18319,F,218,Buttonwood Canal,Flamingo,Human Related: Watercraft Collision
+Pinellas,2018-11-07 00:00:00,MNW18146,F,326,Old Tampa Bay,Clearwater,Human Related: Watercraft Collision
+Hillsborough,2018-11-07 00:00:00,MNW18147,M,165,Old Tampa Bay,Tampa,Natural: Other
+Lee,2018-11-07 00:00:00,MSW18320,M,99,Ostego Bay,Fort Myers Beach,Perinatal (<= 150 cm)
+Volusia,2018-11-08 00:00:00,MNE18038,M,289,Norris Dead River,Deland,Undetermined: Other
+Citrus,2018-11-10 00:00:00,MNW18148,F,139,Gulf of Mexico,Crystal River,Perinatal (<= 150 cm)
+Monroe,2018-11-10 00:00:00,MSE18080,F,332,Florida Bay,Homestead,Human Related: Watercraft Collision
+Citrus,2018-11-11 00:00:00,MNW18149,F,246,Homosassa River,Homosassa,Natural: Other
+Lee,2018-11-12 00:00:00,MSW18321,F,275,Gulf of Mexico,North Captiva Island,Verified: Not Recovered
+Sarasota,2018-11-13 00:00:00,MSW18322,U,300,Lemon Bay,Englewood,Verified: Not Recovered
+Pinellas,2018-11-14 00:00:00,MNW18150,M,280,St. Joseph Sound,Dunedin,Natural: Other
+Martin,2018-11-14 00:00:00,MSE18081,M,249,Indian River,Stuart,Natural: Other
+Lee,2018-11-14 00:00:00,MSW18323,M,241,Hendry Creek,Fort Myers,Human Related: Watercraft Collision
+St. Lucie,2018-11-15 00:00:00,MSE18082,M,247,Indian River,Jensen Beach,Undetermined: Too Decomposed
+Charlotte,2018-11-16 00:00:00,MSW18324,M,298,Stump Pass,Englewood,Natural: Other
+Pinellas,2018-11-17 00:00:00,MNW18151,M,290,Tampa Bay,St. Petersburg,Natural: Other
+Volusia,2018-11-18 00:00:00,MEC18134,M,290,Mosquito Lagoon,Allenhurst,Human Related: Watercraft Collision
+Lee,2018-11-18 00:00:00,MSW18325,M,212,San Carlos Bay,Sanibel,Natural: Other
+Palm Beach,2018-11-19 00:00:00,MSE18083,M,211,Lake Worth Creek,Jupiter,Human Related: Watercraft Collision
+Lee,2018-11-19 00:00:00,MSW18326,M,296,Caloosahatchee River,Cape Coral,Human Related: Watercraft Collision
+Brevard,2018-11-20 00:00:00,MEC18135,F,292,Mosquito Lagoon,Allenhurst,Human Related: Watercraft Collision
+Sarasota,2018-11-20 00:00:00,MSW18327,F,296,Salt Creek,North Port,Natural: Other
+Monroe,2018-11-21 00:00:00,MSE18084,M,332,Man of War Harbor,Key West,Human Related: Watercraft Collision
+Hernando,2018-11-23 00:00:00,MNW18152,F,272,Bayport Channel,Spring Hill,Human Related: Watercraft Collision
+Okeechobee,2018-11-23 00:00:00,MSE18085,F,360,Taylor Creek,Taylor Creek,Human Related: Flood Gate/Canal Lock
+Lee,2018-11-23 00:00:00,MSW18328,U,220,Orange River,Ft. Myers,Verified: Not Recovered
+Lee,2018-11-24 00:00:00,MSW18329,M,234,Estero Bay,Fort Myers Beach,Human Related: Watercraft Collision
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Volusia,2018-11-26 00:00:00,MEC18136,M,139,St. Johns River,Orange City,Perinatal (<= 150 cm)
+Hillsborough,2018-11-27 00:00:00,MNW18153,F,170,Hillsborough Bay,Tampa,Undetermined: Too Decomposed
+Sarasota,2018-11-28 00:00:00,MSW18330,F,202,Lemon Bay,Englewood,Natural: Other
+Volusia,2018-11-29 00:00:00,MEC18137,F,304,Lake Beresford,DeLand,Undetermined: Too Decomposed
+Citrus,2018-11-29 00:00:00,MNW18154,M,283,Kings Bay,Crystal River,Natural: Other
+Pinellas,2018-11-29 00:00:00,MNW18155,M,284,Boca Ciega Bay,St. Petersburg,Natural: Other
+Miami-Dade,2018-11-29 00:00:00,MSE18086,M,254,Lake Ruth,Miami Lakes,Undetermined: Too Decomposed
+Pinellas,2018-11-30 00:00:00,MNW18156,F,140,Intracoastal Waterway,Redington Beach,Perinatal (<= 150 cm)
+Hillsborough,2018-12-03 00:00:00,MNW18157,M,218,Tampa Bay,Apollo Beach,Natural: Other
+Brevard,2018-12-04 00:00:00,MEC18138,F,272,Banana River,Merritt Island,Undetermined: Too Decomposed
+Brevard,2018-12-04 00:00:00,MEC18139,M,287,Banana River,Merritt Island,Undetermined: Too Decomposed
+Palm Beach,2018-12-04 00:00:00,MSE18087,M,152,Lake Worth Creek,Jupiter,Undetermined: Too Decomposed
+Miami-Dade,2018-12-05 00:00:00,MSE18088,F,213,Biscayne Bay,Miami,Undetermined: Too Decomposed
+Collier,2018-12-05 00:00:00,MSW18331,F,292,Caxambas Bay,Goodland,Undetermined: Too Decomposed
+Volusia,2018-12-06 00:00:00,MEC18140,M,294,St. Johns River,Orange City,Natural: Other
+Brevard,2018-12-08 00:00:00,MEC18141,M,149,Crane Creek,Melbourne,Perinatal (<= 150 cm)
+Pinellas,2018-12-08 00:00:00,MNW18158,M,232,Clearwater Harbor,Belleair Beach,Natural: Other
+Citrus,2018-12-09 00:00:00,MNW18159,U,64,Jurassic Spring,Crystal River,Perinatal (<= 150 cm)
+Broward,2018-12-09 00:00:00,MSE18089,M,355,Stranahan River,Fort Lauderdale,Human Related: Watercraft Collision
+Collier,2018-12-09 00:00:00,MSW18332,F,125,Faka Union Canal,Port of the Islands,Verified: Not Recovered
+Hillsborough,2018-12-10 00:00:00,MNW18160,M,200,Tampa Bay,Apollo Beach,Undetermined: Too Decomposed
+Broward,2018-12-13 00:00:00,MSE18090,F,339,Stranahan River,Dania Beach,Human Related: Watercraft Collision
+Miami-Dade,2018-12-13 00:00:00,MSE18091,F,258,Biscayne Bay,Miami,Natural: Other
+Miami-Dade,2018-12-13 00:00:00,MSE18092,M,195,Collins Canal,Miami Beach,Human Related: Other
+Volusia,2018-12-14 00:00:00,MEC18142,F,254,St. Johns River,DeLand,Undetermined: Too Decomposed
+Hillsborough,2018-12-14 00:00:00,MNW18161,F,343,Big Bend Channel,Gibsonton,Undetermined: Too Decomposed
+Lee,2018-12-15 00:00:00,MSW18333,M,140,San Carlos Bay,Sanibel,Perinatal (<= 150 cm)
+Indian River,2018-12-16 00:00:00,MEC18143,M,220,Indian River,Sebastian,Undetermined: Too Decomposed
+Brevard,2018-12-16 00:00:00,MEC18144,F,215,Grand Canal,Satellite Beach,Natural: Cold Stress
+Lee,2018-12-16 00:00:00,MSW18334,M,153,San Carlos Bay,Fort Myers Beach,Natural: Other
+Collier,2018-12-16 00:00:00,MSW18335,U,305,Gulf of Mexico,Naples,Verified: Not Recovered
+Duval,2018-12-17 00:00:00,MNE18039,M,269,Ortega River,Jacksonville,Natural: Cold Stress
+Lee,2018-12-17 00:00:00,MSW18336,M,202,Caloosahatchee River,North Fort Myers,Natural: Other
+Brevard,2018-12-18 00:00:00,MEC18145,M,139,Indian River,Cape Canaveral,Human Related: Other
+Volusia,2018-12-18 00:00:00,MEC18146,F,316,St. Johns River,Orange City,Undetermined: Other
+Volusia,2018-12-18 00:00:00,MEC18147,M,337,Indian River North,Edgewater,Human Related: Watercraft Collision
+Lee,2018-12-18 00:00:00,MSW18337,M,168,Ten Mile Canal,Fort Myers,Natural: Other
+County,Date,Field ID,Sex,Size (cm),Waterway,City,Probable Cause
+Collier,2018-12-19 00:00:00,MSW18338,F,320,Sanctuary Sound,Marco Island,Natural: Other
+Lee,2018-12-19 00:00:00,MSW18339,U,180,Pelican Bay,Cayo Costa,Verified: Not Recovered
+Palm Beach,2018-12-20 00:00:00,MSE18093,M,253,Okeechobee Waterway,South Bay,Undetermined: Too Decomposed
+Volusia,2018-12-22 00:00:00,MEC18148,M,279,St. Johns River,DeLand,Natural: Other
+Broward,2018-12-22 00:00:00,MSE18094,M,278,Whiskey Creek,Dania Beach,Human Related: Watercraft Collision
+Broward,2018-12-22 00:00:00,MSE18095,F,165,Hillsboro River,Fort Lauderdale,Natural: Cold Stress
+Citrus,2018-12-24 00:00:00,MNW18162,F,319,Three Sisters Spring,Crystal River,Natural: Other
+Citrus,2018-12-24 00:00:00,MNW18163,F,311,Salt River,Homosassa,Undetermined: Too Decomposed
+Broward,2018-12-25 00:00:00,MSE18096,F,309,Coral Bay,Fort Lauderdale,Undetermined: Other
+Brevard,2018-12-26 00:00:00,MEC18149,M,309,Indian River,Titusville,Undetermined: Too Decomposed
+Volusia,2018-12-26 00:00:00,MEC18151,F,175,Indian River,Oak Hill,Undetermined: Too Decomposed
+Duval,2018-12-26 00:00:00,MNE18040,F,195,Ribault River,Jacksonville,Natural: Cold Stress
+Volusia,2018-12-26 00:00:00,MNE18041,M,287,Halifax River,Ormond Beach,Natural: Cold Stress
+Hillsborough,2018-12-27 00:00:00,MNW18164,M,270,Tampa Bay,Apollo Beach,Human Related: Other
+Indian River,2018-12-28 00:00:00,MEC18150,F,174,Indian River,Sebastian,Undetermined: Too Decomposed
+Hillsborough,2018-12-29 00:00:00,MNW18165,F,223,Hillsborough River,Tampa,Natural: Other
+Broward,2018-12-29 00:00:00,MSE18097,M,284,C-10 Canal,Hollywood,Undetermined: Too Decomposed
+Walton,2018-12-30 00:00:00,MNW18166,F,270,Choctawhatchee Bay,Niceville,Natural: Cold Stress
+St. Lucie,2018-12-30 00:00:00,MSE18098,M,201,Taylor Creek,Ft. Pierce,Undetermined: Too Decomposed
+Lee,2018-12-30 00:00:00,MSW18340,F,140,Matlacha Pass,Cape Coral,Perinatal (<= 150 cm)
+Monroe,2018-12-30 00:00:00,MSW18341,M,265,Florida Bay,Flamingo,Human Related: Watercraft Collision
+Collier,2018-12-30 00:00:00,MSW18343,M,208,Tamiami Canal,Ochopee,Natural: Cold Stress
+Collier,2018-12-31 00:00:00,MSW18342,F,154,Roberts Bay,Naples,Undetermined: Too Decomposed
