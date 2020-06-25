@@ -3,8 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# apple
-*DS_Store
+# macOS
+.DS_Store
+
+# data, ignore all except for processed data products
+/data/*
+!/data/processed
+*.db
+*.rdb
+*.sqlite
 
 # C extensions
 *.so
